@@ -1,4 +1,3 @@
-```
 # CCC API
 
 ## About
